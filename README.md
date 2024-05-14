@@ -1,2 +1,2 @@
 # MFCGC
-An official source code for paper Multi-view Fair-Augmentation Contrastive Graph Clustering with Reliable Pseudo-Labels. Any communications or issues are welcomed. 
+Here's part of the official code from the paper "Multi-view Fair-Augmentation Contrastive Graph Clustering with Reliable Pseudo-Labels." I hope it will be helpful for your research!
